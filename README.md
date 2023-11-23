@@ -1,2 +1,2 @@
 # BTCFLIP
-Bitcoin Casino - Account system, deposit, cashout, compete against bots & players
+Bitcoin Casino - Account system, deposit, cashout, compete against other players
